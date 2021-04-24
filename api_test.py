@@ -21,9 +21,9 @@ xmlns:xsd="http://www.w3.org/2001/XMLSchema"
 xmlns:soap12="http://www.w3.org/2003/05/soap-envelope">
     <soap12:Body>
         <GetPaymentTerms xmlns="http://Tipalti.org/">
-            <payerName>TutoredbyTeachers</payerName>
+            <payerName></payerName>
             <timestamp>1618976419</timestamp>
-            <key>MNZxfwKLMoBj5ihTLwajCES9lj0hfyHJHma/zjScMXuXS2VTLrGNjOBCFpAFNFnG</key>
+            <key></key>
         </GetPaymentTerms>
     </soap12:Body>
 </soap12:Envelope>"""
